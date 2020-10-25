@@ -1,0 +1,10 @@
+# pycts602api.py must be somewhere in PATH
+from pycts602api import CTS602API
+
+m = CTS602API('/dev/ttyUSB0') # change appropriately
+data = m.get_realtime_data()
+# print out humidity (%)
+print data['humidity']['value']
+print data['
+m.turn_on()
+
