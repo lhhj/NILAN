@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/openhabian/.dotnet/store/|arch|/|tfm|",
+      "/home/openhabian/.nuget/packages"
+    ]
+  }
+}

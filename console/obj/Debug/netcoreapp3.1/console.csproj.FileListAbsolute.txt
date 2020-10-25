@@ -1,0 +1,11 @@
+/home/openhabian/nilan/console/bin/Debug/netcoreapp3.1/console
+/home/openhabian/nilan/console/bin/Debug/netcoreapp3.1/console.deps.json
+/home/openhabian/nilan/console/bin/Debug/netcoreapp3.1/console.runtimeconfig.json
+/home/openhabian/nilan/console/bin/Debug/netcoreapp3.1/console.runtimeconfig.dev.json
+/home/openhabian/nilan/console/bin/Debug/netcoreapp3.1/console.dll
+/home/openhabian/nilan/console/bin/Debug/netcoreapp3.1/console.pdb
+/home/openhabian/nilan/console/obj/Debug/netcoreapp3.1/console.csprojAssemblyReference.cache
+/home/openhabian/nilan/console/obj/Debug/netcoreapp3.1/console.AssemblyInfoInputs.cache
+/home/openhabian/nilan/console/obj/Debug/netcoreapp3.1/console.AssemblyInfo.cs
+/home/openhabian/nilan/console/obj/Debug/netcoreapp3.1/console.dll
+/home/openhabian/nilan/console/obj/Debug/netcoreapp3.1/console.pdb
